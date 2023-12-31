@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "youtube-dl-mp3-wrapper/1.0.0": {
+        "runtime": {
+          "youtube-dl-mp3-wrapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "youtube-dl-mp3-wrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

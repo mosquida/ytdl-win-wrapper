@@ -1,0 +1,16 @@
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\bin\Release\net8.0-windows\youtube-dl-mp3-wrapper.exe
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\bin\Release\net8.0-windows\youtube-dl-mp3-wrapper.deps.json
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\bin\Release\net8.0-windows\youtube-dl-mp3-wrapper.runtimeconfig.json
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\bin\Release\net8.0-windows\youtube-dl-mp3-wrapper.dll
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\bin\Release\net8.0-windows\youtube-dl-mp3-wrapper.pdb
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube_dl_mp3_wrapper.Form1.resources
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.csproj.GenerateResource.cache
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.AssemblyInfoInputs.cache
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.AssemblyInfo.cs
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.csproj.CoreCompileInputs.cache
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.dll
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\refint\youtube-dl-mp3-wrapper.dll
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.pdb
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\youtube-dl-mp3-wrapper.genruntimeconfig.cache
+C:\Users\mosquida\projects\youtube-dl-mp3-wrapper\obj\Release\net8.0-windows\ref\youtube-dl-mp3-wrapper.dll

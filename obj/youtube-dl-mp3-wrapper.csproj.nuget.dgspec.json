@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mosquida\\projects\\youtube-dl-mp3-wrapper\\youtube-dl-mp3-wrapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mosquida\\projects\\youtube-dl-mp3-wrapper\\youtube-dl-mp3-wrapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mosquida\\projects\\youtube-dl-mp3-wrapper\\youtube-dl-mp3-wrapper.csproj",
+        "projectName": "youtube-dl-mp3-wrapper",
+        "projectPath": "C:\\Users\\mosquida\\projects\\youtube-dl-mp3-wrapper\\youtube-dl-mp3-wrapper.csproj",
+        "packagesPath": "C:\\Users\\mosquida\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mosquida\\projects\\youtube-dl-mp3-wrapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mosquida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
